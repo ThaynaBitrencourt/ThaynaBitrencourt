@@ -1,6 +1,6 @@
 - 😊 Olá, sou Thaynã Bittencourt
 - 📚 Fazendo faculdade de ADS
-- 🌱 Atualmente estou aprendendo PHP🐘
+- 🌱 Estudando novas tecnologias, React Native, PHP...
 - 💞️ Estou procurando meu primeiro estágio
 - 📫 thaynabittencourt.ads@gmail.com 
 - 😄 Pronomes: Thaynã Negresco
